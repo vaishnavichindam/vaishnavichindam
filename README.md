@@ -167,6 +167,8 @@ AI-powered system converting voice/text into ATS-friendly resumes with custom NL
 | Python for Non-Programmers · Python Basic · Java Programming | Great Learning |
 | Programming Essentials in C | Cisco Networking Academy |
 | Python · DBMS | NPTEL |
+| Prompt Engineering For Everyone | CognitiveClass.ai(IBM Skills Network) |
+| AWS Cloud Practitioner Essentials | Awazon Web Services |
 
 </div>
 
